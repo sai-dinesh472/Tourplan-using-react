@@ -1,7 +1,7 @@
 
 import Card from './Card'
 
-//Tours
+//Tours Component
 function Tours({tours, removeTour}) {
     return (
         <div className='container'>
